@@ -4,14 +4,6 @@ Este documento contiene toda la documentación requerida para la entrega en la W
 
 ---
 
-## 👥 Miembros del Equipo
-* **Estudiante:** Zoe (zoe19)
-* **Curso:** Testing y Validación de Software
-* **Docente:** César Augusto Vega Fernández
-* **Año:** 2026
-
----
-
 ## 1. Inicio: Descripción del Dominio y Propósito del Sistema
 El sistema de **Registraduría** tiene como objetivo validar y registrar ciudadanos votantes bajo criterios específicos de elegibilidad jurídica:
 * Ser una persona viva (`alive = true`).
