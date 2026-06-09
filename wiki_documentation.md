@@ -1,7 +1,5 @@
 # Wiki del Taller: Pruebas de Integración y Sistema
 
-Este documento contiene toda la documentación requerida para la entrega en la Wiki del repositorio del taller de la **Registraduría**. Puedes copiar e importar este contenido directamente en la Wiki de GitHub/GitLab.
-
 ---
 
 ## 1. Inicio: Descripción del Dominio y Propósito del Sistema
